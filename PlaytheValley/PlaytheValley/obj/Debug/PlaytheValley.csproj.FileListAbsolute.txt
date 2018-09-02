@@ -1,0 +1,15 @@
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\bin\Debug\PlaytheValley.exe.config
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\bin\Debug\PlaytheValley.exe
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\bin\Debug\PlaytheValley.pdb
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.csprojAssemblyReference.cache
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\MainWindow.g.cs
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\App.g.cs
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley_MarkupCompile.cache
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley_MarkupCompile.lref
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\MainWindow.baml
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.g.resources
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.Properties.Resources.resources
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.csproj.GenerateResource.cache
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.csproj.CoreCompileInputs.cache
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.exe
+c:\users\jr\source\repos\PlaytheValley\PlaytheValley\obj\Debug\PlaytheValley.pdb
